@@ -1,3 +1,3 @@
 console.log("Hello, World!");
 
-doc
+document.writeline("This is a sample JavaScript file.");
